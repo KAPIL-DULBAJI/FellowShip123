@@ -1,0 +1,7 @@
+G:\BRIDGELABZ@\EmployApp\EmployApp\bin\Debug\EmployApp.exe.config
+G:\BRIDGELABZ@\EmployApp\EmployApp\bin\Debug\EmployApp.exe
+G:\BRIDGELABZ@\EmployApp\EmployApp\bin\Debug\EmployApp.pdb
+G:\BRIDGELABZ@\EmployApp\EmployApp\obj\Debug\EmployApp.csproj.AssemblyReference.cache
+G:\BRIDGELABZ@\EmployApp\EmployApp\obj\Debug\EmployApp.csproj.CoreCompileInputs.cache
+G:\BRIDGELABZ@\EmployApp\EmployApp\obj\Debug\EmployApp.exe
+G:\BRIDGELABZ@\EmployApp\EmployApp\obj\Debug\EmployApp.pdb
